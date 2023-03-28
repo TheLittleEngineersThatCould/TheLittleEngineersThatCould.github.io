@@ -18,5 +18,5 @@ Sam Leville
 
 Blake Christiansen
 
-Putting in Images: ![David Florian](/assets/img/David_Headshot_web2.jpg)
+Putting in Images: ![David Florian](/assets/img/Screenshot_7.jpg)
 Link: [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/)

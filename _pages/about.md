@@ -1,31 +1,22 @@
 ---
 
-title: "About David Florian"
+title: "About the Team"
 
 ---
 
-## Education
+## Mission
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+The Little Engineers That Could are a Vanderbilt senior design team from the class of 2023. Our goal was to improve the sustainability of our engineering practices. We partnered with Vanderbilt recycling to utilize plastic bottle waste from students to supply 3D printing labs across campus with recycled PET filament. Many extruders exist to take pellets of certain types of plastics and produce strands of filament that can be fed into 3D printers. However, what we aimed to do was to design an extruder that was optimized to take ground up plastic bottles and turn them directly into filament. We hoped to use our extruder to create a circular plastics economy at Vanderbilt, where students in years to come can continue to use bottles from Vanderbilt recycling to create filament with satisfactory material properties and supply this filament to various 3D printing labs and makerspaces on campus. Additionally, we hope future students may build on our extruder design to further optimize our process.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+## Members
 
-## Technical Skills
+Melanie Marszal
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Amy Pang
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+Sam Leville
 
-## Press 
+Blake Christiansen
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+Putting in Images: ![David Florian](/assets/img/David_Headshot_web2.jpg)
+Link: [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/)

@@ -107,7 +107,18 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dr.dflo"
-
+author:
+  name             : "Melanie Marszal"
+  avatar           : "assets/img/David_Headshot_web2.jpg"
+  bio              : "An engineer with a passion for teaching "
+  location         : "Nashville, TN"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/DrD-Flo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dr.dflo"
 
 # Site Footer
 footer:

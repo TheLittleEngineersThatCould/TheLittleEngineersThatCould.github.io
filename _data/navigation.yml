@@ -1,11 +1,11 @@
 # main links
 main:
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /_pages/about
   - title: "Sample Posts"
-     url: /_pages/cad
+     url: /_pages/about
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

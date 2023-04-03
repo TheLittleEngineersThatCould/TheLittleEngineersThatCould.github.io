@@ -11,6 +11,7 @@ gallery:
    
 ---
 
+Our text here instead of David example
 # Features
 
 * **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.

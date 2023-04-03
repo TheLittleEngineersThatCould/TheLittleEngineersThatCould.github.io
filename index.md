@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
-    - label: "My Projects"
+    - label: "See Our Report"
       url: "/portfolio/"
 excerpt: "The Little Engineers That Could are a team at Vanderbilt University who hope to help our University directly utilize more waste from students by repurposing recycled plastic bottles into 3D printing filament through an optimized extruder."
 feature_row:

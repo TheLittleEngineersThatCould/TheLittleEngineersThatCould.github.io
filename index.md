@@ -8,7 +8,7 @@ header:
   actions:
     - label: "See Our Report"
       url: "/portfolio/"
-excerpt: "The Little Engineers That Could are a team at Vanderbilt University who hope to help our University directly utilize more waste from students by repurposing recycled plastic bottles into 3D printing filament through an optimized extruder."
+excerpt: "The Little Engineers That Could are a team at Vanderbilt University who hope to help our community directly utilize more waste from students by repurposing recycled plastic bottles into 3D printing filament through an optimized extruder."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"

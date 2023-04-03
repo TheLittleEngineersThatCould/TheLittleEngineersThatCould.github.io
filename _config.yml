@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "The Little Engineers That Could"
 title_separator          : "-"
-subtitle                 : "Creating an extruder optimized to recycle plastic bottle waste into PET filament at Vanderbilt University"
+subtitle                 : "Creating an extruder optimized to recycle plastic bottle waste into PET filament"
 name                     : &name "Melanie Marszal, Amy Pang, Sam Leville, and Blake Christiansen" # &name is a YAML anchor which can be *referenced later
 description              : &description "Creating an extruder optimized to recycle plastic bottle waste into PET filament at Vanderbilt University"
 url                      : https://TheLittleEngineersThatCould.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

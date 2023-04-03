@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Extruder to Recycle Plastic Bottle Waste"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "The Little Engineers That Could are a team at Vanderbilt University who built an extruder optimized to create filament for 3D printing out of plastic bottles."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"

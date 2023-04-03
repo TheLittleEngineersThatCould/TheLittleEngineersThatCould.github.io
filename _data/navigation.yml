@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /_pages/about
   - title: "CAD"
-    url: /_pages/about
+    url: /_pages/cad
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

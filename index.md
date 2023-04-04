@@ -10,15 +10,15 @@ header:
       url: "/portfolio/"
 excerpt: "The Little Engineers That Could are a team at Vanderbilt University who hope to help our community directly utilize more waste from students by repurposing recycled plastic bottles into 3D printing filament through an optimized extruder."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/Skyler.jpg
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/Skyler.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: assets/img/Skyler.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
 ---

@@ -2,12 +2,12 @@
 title: "Report Section 2"
 excerpt: "Description for section 2."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/Skyler.jpg
+  teaser: /assets/img/Skyler.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/Skyler.jpg
+  - image_path: assets/img/Skyler.jpg
+  - image_path: assets/img/Skyler.jpg
    
 ---
 

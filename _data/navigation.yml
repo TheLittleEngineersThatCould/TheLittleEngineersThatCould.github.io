@@ -2,10 +2,10 @@
 main:
   - title: "Report"
     url: /portfolio/
-  - title: "About"
-    url: /_pages/about
   - title: "CAD"
     url: /_pages/cad
+  - title: "About"
+    url: /_pages/about
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

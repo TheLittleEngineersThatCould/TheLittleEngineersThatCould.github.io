@@ -176,6 +176,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  CAD:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -206,6 +209,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _CAD
+  - scope:
+      path: "_CAD"
+      type: CAD
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
 
 
 # Sass/SCSS

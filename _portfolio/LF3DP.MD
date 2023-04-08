@@ -1,6 +1,6 @@
 ---
-title: "Report Section 2"
-excerpt: "Description for section 2."
+title: "Introduction and Objective-time Chart"
+excerpt: "Our purpose, goals, deliverables, and timeline"
 header:
   image: /assets/img/Skyler.jpg
   teaser: /assets/img/Skyler.jpg

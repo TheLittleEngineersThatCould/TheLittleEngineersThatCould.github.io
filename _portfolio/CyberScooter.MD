@@ -1,6 +1,6 @@
 ---
-title: "Report Section 1"
-excerpt: "Short description of section 1"
+title: "Abstract"
+excerpt: "Summary of our work and findings"
 header:
   image: /assets/img/Skyler.jpg
   teaser: /assets/img/Skyler.jpg

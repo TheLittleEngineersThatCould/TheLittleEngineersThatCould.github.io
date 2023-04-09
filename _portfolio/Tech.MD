@@ -1,6 +1,6 @@
 ---
 title: "Technology Readiness Assessment"
-excerpt: "An assessment of the Technology Readiness Level (TRL) of our extruder."
+excerpt: "An assessment of the Technology Readiness Level (TRL) of our extruder"
 header:
   image: /assets/img/Skyler.jpg
   teaser: /assets/img/Skyler.jpg

@@ -12,15 +12,15 @@ excerpt: "The Little Engineers That Could are a team at Vanderbilt University wh
 feature_row:
   - image_path: assets/img/Skyler.jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "Sustainability"
+    excerpt: "We are partnered with Vanderbilt Recycling to repurpose waste from students."
   - image_path: assets/img/Skyler.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Collaboration"
+    excerpt: "We hope to supply 3D printing labs across campus with recycled filament."
   - image_path: assets/img/Skyler.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Learning"
+    excerpt: "We want future students to build on our design!"
 ---
 
 {% include feature_row %}

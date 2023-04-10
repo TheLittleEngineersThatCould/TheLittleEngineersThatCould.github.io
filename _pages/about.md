@@ -21,4 +21,4 @@ Blake Christiansen
 Putting in Images: ![David Florian](/assets/img/Screenshot_7.jpg)
 Link: [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/)
 
-<iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=928885553&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=928885553&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

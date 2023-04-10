@@ -8,4 +8,6 @@ teaser: /assets/img/Barrel_CAD.png
 
 We machined the barrel ourselves using the lathe in Olin Hall. It is made out of 1144 carbon steel.
 
+![Machining the barrel](/assets/img/Machining_Barrel.png)
+
 

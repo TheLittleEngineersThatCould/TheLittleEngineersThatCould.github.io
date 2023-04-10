@@ -18,7 +18,7 @@ feature_row:
     alt: "The Team with the EX2"
     title: "Collaboration"
     excerpt: "We hope to supply 3D printing labs across campus with recycled filament."
-  - image_path: assets/img/Blake_Emergency_Stop.jpeg
+  - image_path: assets/img/Blake_Emergency_Stop.jpg
     alt: "Blake with the Emergency Stop Button"
     title: "Learning"
     excerpt: "We want future students to build on our design!"

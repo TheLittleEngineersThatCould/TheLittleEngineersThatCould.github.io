@@ -5,7 +5,7 @@ excerpt: "Illustration of our workflow including mass balances and a description
 ---
 
 # Process Flow Diagram
-
+![Process flow diagram](/assets/img/PFD.png)
 **Figure 1.** Process flow diagram for recycling PET from a slip stream via the Vanderbilt waste plastic stream. This diagram assumes a basis of 5 kg of PET bottles supplied by Vanderbilt Recycling. 
 
 # Process Description

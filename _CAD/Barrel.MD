@@ -2,7 +2,6 @@
 title: "Barrel"
 excerpt: "Barrel for extrusion"
 header:
-  image: /assets/img/Barrel_CAD.png
   teaser: /assets/img/Barrel_CAD.png
   
 ---

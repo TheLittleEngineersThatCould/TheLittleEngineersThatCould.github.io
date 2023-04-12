@@ -1,7 +1,9 @@
 ---
 title: "Insulation"
 excerpt: "Fiberglass insulation to keep heat trapped in the barrel"
-teaser: /assets/img/Fiberglass Insulation Sheets.png
+header:
+  teaser: /assets/img/Fiberglass Insulation Sheets.png
+  
 ---
 
 ![Fiberglass insulation sheets](/assets/img/Fiberglass Insulation Sheets.png)

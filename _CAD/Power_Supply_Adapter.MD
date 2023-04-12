@@ -1,7 +1,9 @@
 ---
 title: "Power Supply Adapter"
 excerpt: "Adapters to convert our 120V from the outlet to the 12V our fans need"
-teaser: /assets/img/12V Power Supply.png
+header:
+  teaser: /assets/img/12V Power Supply.png
+  
 ---
 
 ![Power supply adapter](/assets/img/12V Power Supply.png)

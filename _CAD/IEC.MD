@@ -1,7 +1,9 @@
 ---
 title: "IEC Connector"
 excerpt: "Connector place on the housing to allow the extruder to be plugged into a standard outlet"
-teaser: /assets/img/C20 IEC Connector.png
+header:
+  teaser: /assets/img/C20 IEC Connector.png
+  
 ---
 
 ![IEC Connector](/assets/img/C20 IEC Connector.png)

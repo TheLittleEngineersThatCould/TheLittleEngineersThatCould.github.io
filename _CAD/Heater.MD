@@ -1,7 +1,9 @@
 ---
 title: "Heater"
 excerpt: "Coil heaters to wrap around and heat up the barrel"
-teaser: /assets/img/High-Temperature Heaters for Pipes and Tubes with Wire Leads.png
+header:
+  teaser: /assets/img/High-Temperature Heaters for Pipes and Tubes with Wire Leads.png
+  
 ---
 
 ![Coil heater](/assets/img/High-Temperature Heaters for Pipes and Tubes with Wire Leads.png)

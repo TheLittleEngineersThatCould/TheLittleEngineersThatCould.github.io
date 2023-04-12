@@ -1,7 +1,9 @@
 ---
 title: "Steel Mash"
 excerpt: "A mesh cloth made from stainless steel to cover ventillation holes in housing for safety"
-teaser: /assets/img/304 Stainless Steel Mesh Wire Cloth.png
+header:
+  teaser: /assets/img/304 Stainless Steel Mesh Wire Cloth.png
+  
 ---
 
 ![Stainless steel mesh](/assets/img/304 Stainless Steel Mesh Wire Cloth.png)

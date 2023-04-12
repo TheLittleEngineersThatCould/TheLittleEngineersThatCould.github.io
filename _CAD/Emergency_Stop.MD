@@ -1,7 +1,9 @@
 ---
 title: "Emergency Stop Button"
 excerpt: "Button to cut all power in case of a hazard arising"
-teaser: /assets/img/Emergency Stop Button.png
+header:
+  teaser: /assets/img/Emergency Stop Button.png
+  
 ---
 
 <iframe src="https://myhub.autodesk360.com/ue2fc2baa/shares/public/SH512d4QTec90decfa6e7f5f3c4db45ca07a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>

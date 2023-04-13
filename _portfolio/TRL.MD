@@ -11,9 +11,9 @@ The extruder is completely functional and ready to be used. It is accessible bec
 Literature from the National Defense Industrial Association (NDIA) outlines a method of calculating the Technology Readiness Level (TRL) of a product. This spreadsheet calculator builds off of NASA’s original TRL criteria, which quantify readiness on a scale from 1 to 9 with 9 being the most ready. Table 1 below shows NASA’s TRL criteria for a product. Based on this criteria, our extruder aligns most closely with TRL 9. Our extruder has been completely assembled and proven successful through creation of usable filament for Vanderbilt’s 3D printing lab. 
 
 **Table 1.** Technology Readiness Level criteria from NASA.
-![Table of NASA TRL criteria]()
+![Table of NASA TRL criteria](/assets/img/NASA_TRL.png)
 
 For a more thorough investigation of the TRL of our extruder, we used the spreadsheet TRL calculator from the NDIA. The NDIA TRL calculator allows the user to determine a percent readiness within each level. Figure 1 below shows the subcriteria the NDIA uses for TRL 9 with the boxes we checked according to the readiness of our extruder. The wording of some of the points necessitated inferences on our part, since our extruder is not a weapon or flight system. Using this calculator, we determined that our extruder is at 100% completion for nearly all TRL 9 requirements. We have begun a training plan by recruiting underclassmen who seem interested in continuing the running of our extruder and providing basic information on the workflow of processes such as regrind creation. However, we have not created any documentation on how to run the extruder yet. We have no program protection plan implemented or started, but we do not anticipate needing a security system to protect our extruder from foul play.
 
-![Spreadsheet screenshot of NDIA TRL 9 criteria]()
+![Spreadsheet screenshot of NDIA TRL 9 criteria](/assets/img/TRL_9.png)
 **Figure 1.** NDIA criteria for TRL 9 with our levels of completion.

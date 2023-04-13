@@ -1,6 +1,7 @@
 ---
 title: "Technology Readiness Assessment"
 excerpt: "An examination of the accessibility, limitations, and readiness of our extruder"
+classes: wide
 
 ---
 

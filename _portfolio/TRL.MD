@@ -19,3 +19,5 @@ For a more thorough investigation of the TRL of our extruder, we used the spread
 **Figure 1.** NDIA criteria for TRL 9 with our levels of completion.
 
 $^1$ “Technology Readiness Calculator,” NDIA Storage, 2003. [Online]. Available: https://ndiastorage.blob.core.usgovcloudapi.net/ndia/2003/systems/nolte2.pdf. [Accessed: 2023]. 
+
+Test $2^2=4/2$

@@ -27,11 +27,6 @@ The Little Engineers That Could are a Vanderbilt senior design team from the cla
 
 ## Members
 
-Melanie Marszal
 
-Amy Pang
-
-Sam Leville
-
-Blake Christiansen
+{% include feature_row %}
 

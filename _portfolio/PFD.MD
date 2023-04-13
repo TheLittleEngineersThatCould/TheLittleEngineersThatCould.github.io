@@ -1,6 +1,7 @@
 ---
 title: "Process Flow Diagram and Process Description"
 excerpt: "Illustration of our workflow including mass balances and a description of our process"
+classes: wide
 
 ---
 

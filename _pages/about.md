@@ -2,8 +2,21 @@
 
 title: "About the Team"
 classes: wide
-
+feature_row:
+  - image_path: assets/img/Immersion_Logo.png
+    alt: "Vanderbilt Immersion Logo"
+    title: "Immersion Vanderbilt"
+    excerpt: "We received a generous grant from the Vanderbilt Immersion Office (see us in [MyVU](https://news.vanderbilt.edu/2023/02/22/provost-awards-44-immersion-faculty-mentoring-grants/)!)."
+  - image_path: assets/img/DFLab_Logo.png
+    alt: "Digital Fabrication Lab Logo"
+    title: "Digital Fabrication Lab"
+    excerpt: "We used equipment from the [Digital Fabrication Lab](https://www.digitalfabricationlab.com/) to create regrind, 3D printed parts, and machined parts."
+  - image_path: assets/img/SustainVU_Logo.png
+    alt: "SustainVU Logo"
+    title: "SustainVU Recycling"
+    excerpt: "[SustainVU](https://www.vanderbilt.edu/sustainability/) Recycling has provided us with recycled plastic bottles from Vanderbilt students."
 ---
+
 
 ## Mission
 
@@ -35,3 +48,5 @@ Sam is a chemical engineer from Minnesota with a minor in material science. Lear
 
 Melanie is a chemical engineer from Ohio with minors in computer science and astronomy. Learn more about Melanie [here](https://www.linkedin.com/in/melanie-marszal/).
 
+## Partners
+{% include feature_row %}

@@ -13,7 +13,7 @@ The Little Engineers That Could are a Vanderbilt senior design team from the cla
 
 #### Melanie Marszal
 
-![Melanie](/assets/img/Melanie_Headshot.png){: style="float: left" width="200" height="200"}
+![Melanie](/assets/img/Amy_Headshot_Clear.png){: style="float: left" width="200" height="200"}
 
 <ul>
 Melanie is a chemical engineer from Ohio.

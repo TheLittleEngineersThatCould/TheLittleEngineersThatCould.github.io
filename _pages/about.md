@@ -1,7 +1,8 @@
 ---
 
 title: "About the Team"
-    
+classes: wide
+
 ---
 
 ## Mission
@@ -14,6 +15,6 @@ The Little Engineers That Could are a Vanderbilt senior design team from the cla
 
 ![Melanie](/assets/img/Melanie_Headshot.png){: style="float: left" width="200" height="200"}
 
-
+<ul>
 Melanie is a chemical engineer from Ohio.
-
+</ul>

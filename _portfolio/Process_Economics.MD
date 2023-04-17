@@ -34,7 +34,7 @@ Following these assumptions, we are able to determine the annual revenue of this
 
 $$N = \frac{-ln(1-(P*\frac{APR}{12})/MP)}{ln(1+\frac{APR}{12})}    (1)$$
 
-where N is the number of monthly payments, P is the principal, APR is the annual percentage rate, and MP is the monthly payment. For this simulation, the monthly payment is determined to be 36% of the monthly profit because for small businesses to be considered viable for future loans their debt-to-income ratio, or the percent of monthly income that goes to paying debt, should be 36% or less. If we compare this result with the case in which we instead purchase Filabot’s Standard-Series EX6 Filament Extruder with a high compression screw, we find that the payback period is just under 3 years due to the EX6 having roughly the same output capacity as our prototype but costs nearly 3 times as much at $15,187. If we run the same loan analysis with the cost of the EX6 with all other variables held constant, we find that it would take 21 years and 5 months to pay off the loans which is over six times as long as the repayment schedule of the prototype extruder.
+where N is the number of monthly payments, P is the principal, APR is the annual percentage rate, and MP is the monthly payment. For this simulation, the monthly payment is determined to be 36% of the monthly profit because for small businesses to be considered viable for future loans their debt-to-income ratio, or the percent of monthly income that goes to paying debt, should be 36% or less[^1]. If we compare this result with the case in which we instead purchase Filabot’s Standard-Series EX6 Filament Extruder with a high compression screw, we find that the payback period is just under 3 years due to the EX6 having roughly the same output capacity as our prototype but costs nearly 3 times as much at $15,187. If we run the same loan analysis with the cost of the EX6 with all other variables held constant, we find that it would take 21 years and 5 months to pay off the loans which is over six times as long as the repayment schedule of the prototype extruder.
 
 In both the analysis of the payback period and the loan repayment schedule, we see that the initial cost of the extruder is paid off very quickly when the filament is sold for profit. In order for a business to take part in any process, the process needs to make money. The prototype extruder both makes money and reduces the environmental impact of single-use plastics on Vanderbilt’s campus.
 
@@ -48,7 +48,7 @@ While it is important to consider the potential profitability of our plastic ext
 
 In order to purchase 30 kg of PETG filament, it would cost $31.50 per kg amounting to $945 per year in filament alone . However, to produce the same amount of filament using the extruder would only cost $169 per year since the only production cost to consider is the price of pellets, and the cost of the pellets is reduced by 25% due to the presence of the free rPET regrind sourced from Vanderbilt’s plastic waste stream.  Therefore, using the polymer extruder would save the Digital Fabrication Lab $776 per year meaning the savings would overcome the initial investment in the extruder in 7 years. 
 
-
+[^1]: C. B. Murphy, “Debt-to-income (DTI) ratio: What's good and how to calculate it,” Investopedia, 11-Jan-2023. [Online]. Available: https://www.investopedia.com/terms/d/dti.asp. [Accessed: 17-Apr-2023]. 
 
 
 

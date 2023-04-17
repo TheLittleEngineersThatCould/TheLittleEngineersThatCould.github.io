@@ -25,28 +25,28 @@ The Little Engineers That Could are a Vanderbilt senior design team from the cla
 ## Members
 
 #### Amy Pang
-
+<div>
 ![Amy](/assets/img/Amy_Headshot-Clear.png){: style="float: left" width="150" height="150"}
 
 Amy is a chemical engineer from Mississippi with a minor in material science. Learn more about Amy [here](https://www.linkedin.com/in/amyspang/).
-
+</div>
 #### Blake Christiansen
-
+<div>
 ![Blake](/assets/img/Blake_Headshot-Clear.png){: style="float: left" width="150" height="150"}
 
 Blake is a chemical engineer from Alabama with a minor in material science. Learn more about Blake [here](https://www.linkedin.com/in/b-christiansen/).
-
+</div>
 #### Sam Leville
-
+<div>
 ![Sam](/assets/img/Sam_Headshot-Clear.png){: style="float: left" width="150" height="150"}
 
 Sam is a chemical engineer from Minnesota with a minor in material science. Learn more about Sam [here](https://www.linkedin.com/in/samuel-leville/).
-
+</div>
 #### Melanie Marszal
-
+<div>
 ![Melanie](/assets/img/Melanie_Headshot-Clear.png){: style="float: left" width="150" height="150"}
 
 Melanie is a chemical engineer from Ohio with minors in computer science and astronomy. Learn more about Melanie [here](https://www.linkedin.com/in/melanie-marszal/).
-
+</div>
 ## Partners
 {% include feature_row %}

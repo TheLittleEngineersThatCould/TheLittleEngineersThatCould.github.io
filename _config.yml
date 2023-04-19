@@ -117,8 +117,9 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@TheLittleEngineersthatCould"
-    - label: "Thank you for visiting!"
+    - label: "Digital Fabrication Lab"
       icon: "fab fa-fw fa-heart"
+      url: "https://www.digitalfabricationlab.com/index.html"
 
 
 # Reading Files

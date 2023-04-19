@@ -56,5 +56,33 @@ Melanie is a chemical engineer from Ohio with minors in computer science and ast
 
 <div style="clear:both;"></div>
 
+## Mentors
+
+#### Scott Guelcher
+
+![Scott Guelcher Headshot](/assets/img/Guelcher_Headshot-Clear.png){: style="float: left" width="150" height="150"}
+
+Scott Guelcher is a Professor of Chemical and Biomolecular Engineering, Professor of Medicine, and the Director of the Center for Bone Biology at Vanderbilt University in Nashville, TN.  Prior to his appointment at Vanderbilt, he was a Senior Associate Scientist at Bayer Corporation and an NIH/NRSA Fellow in the Department of Biomedical Engineering at Carnegie Mellon University. Professor Guelcher’s research focuses on the design and development of biomaterials and delivery systems that enhance healing of tissue damaged by trauma or disease. He collaborates with biomedical scientists and clinicians to design, develop, and scale-up new materials for bone and soft tissue regeneration from the bench to the bedside.   He also studies how the bone/tumor microenvironment regulates the progression of tumor-induced bone disease and designs new tumor-targeted therapies to block establishment of tumors in bone. Dr. Guelcher is an author on over ninety publications and an inventor on twelve patents. Learn more about Dr. Guelcher [here](https://www.linkedin.com/in/guelcher-scott-778a8a1b/).
+
+<div style="clear:both;"></div>
+
+#### David Florian
+
+![David Florian Headshot](/assets/img/David_Headshot-Clear.png){: style="float: left" width="150" height="150"}
+
+David Florian has been a postdoctoral scholar in the lab of Scott Guelcher, professor of chemical and biomolecular engineering. He received a Ph.D. in biomedical engineering from Vanderbilt, and earned a BASc in biomedical engineering from the University of Virginia. His research focuses on modeling and imaging the bone-tumor microenvironment to study the complex process of metastatic seeding and outgrowth of tumor cells in the bone marrow. 
+
+Florian (aka Dr. D-Flo) “is an is an engineer with a passion for teaching and the open-source community.” He created the Dr. D-Flo YouTube channel to share his projects “in hopes of inspiring the next generation of DIYers.” Learn more about Dr. Florian [here](https://www.linkedin.com/in/david-florian-7a2494132/).
+
+<div style="clear:both;"></div>
+
+#### Skyler Hornback
+
+![Skyler Hornback Headshot](/assets/img/Skyler_Headshot-Clear.png){: style="float: left" width="150" height="150"}
+
+Skyler is a graduate student in the Chemical and Biomolecular Engineering Department at Vanderbilt. He has a B.S. in Chemical Engineering and Certificate in Biopharmaceutical Engineering from the University of Kentucky. His past projects have included selective extraction of rare earth elements from coal-based sources (acid mine drainage, coarse refuse) utilizing nanoparticle-supported ionic liquids and polymer flocculants and the use of iron oxide-gold nanoparticle substrates with thermoresponsive polymeric attachments for removal of per- and polyfluoroalkyl substances. Learn more about Skyler [here](https://www.linkedin.com/in/skylerhornback/).
+
+<div style="clear:both;"></div>
+
 ## Partners
 {% include feature_row %}

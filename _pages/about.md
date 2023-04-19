@@ -28,7 +28,7 @@ The Little Engineers That Could are a Vanderbilt senior design team from the cla
 
 ![Amy](/assets/img/Amy_Headshot_Clear.png){: style="float: left" width="150" height="150"}
 
-Amy is a chemical engineer from Mississippi with a minor in material science. Learn more about Amy [here](https://www.linkedin.com/in/amyspang/).
+Amy is a chemical engineer from Mississippi with a minor in material science. Following graduation, Amy will be working at Mars Petcare as a Process/Product Implementation Engineer. Learn more about Amy [here](https://www.linkedin.com/in/amyspang/).
 
 <div style="clear:both;"></div>
 
@@ -36,7 +36,7 @@ Amy is a chemical engineer from Mississippi with a minor in material science. Le
 
 ![Blake](/assets/img/Blake_Headshot_Clear.png){: style="float: left" width="150" height="150"}
 
-Blake is a chemical engineer from Alabama with a minor in material science. Learn more about Blake [here](https://www.linkedin.com/in/b-christiansen/).
+Blake is a chemical engineer from Alabama with a minor in material science. Following graduation, Blake will be working as a Surface Warfare Officer (nuclear) in the Navy. Learn more about Blake [here](https://www.linkedin.com/in/b-christiansen/).
 
 <div style="clear:both;"></div>
 
@@ -44,7 +44,7 @@ Blake is a chemical engineer from Alabama with a minor in material science. Lear
 
 ![Sam](/assets/img/Sam_Headshot_Clear.png){: style="float: left" width="150" height="150"}
 
-Sam is a chemical engineer from Minnesota with a minor in material science. Learn more about Sam [here](https://www.linkedin.com/in/samuel-leville/).
+Sam is a chemical engineer from Minnesota with a minor in material science. Following graduation, Sam will be working for Emerson in their Engineers in Leadership (EIL) Corporate Rotational Program. Learn more about Sam [here](https://www.linkedin.com/in/samuel-leville/).
 
 <div style="clear:both;"></div>
 
@@ -52,7 +52,7 @@ Sam is a chemical engineer from Minnesota with a minor in material science. Lear
 
 ![Melanie](/assets/img/Melanie_Headshot_Clear.png){: style="float: left" width="150" height="150"}
 
-Melanie is a chemical engineer from Ohio with minors in computer science and astronomy. Learn more about Melanie [here](https://www.linkedin.com/in/melanie-marszal/).
+Melanie is a chemical engineer from Ohio with minors in computer science and astronomy. Following graduation, Melanie will be working at Dow as a Production Engineer. Learn more about Melanie [here](https://www.linkedin.com/in/melanie-marszal/).
 
 <div style="clear:both;"></div>
 
@@ -60,7 +60,7 @@ Melanie is a chemical engineer from Ohio with minors in computer science and ast
 
 #### Scott Guelcher
 
-![Scott Guelcher Headshot](/assets/img/Guelcher_Headshot-Clear.png){: style="float: left" width="200" height="200"}
+![Scott Guelcher Headshot](/assets/img/Guelcher_Headshot-Clear.png){: style="float: left" width="250" height="250"}
 
 Scott Guelcher is a Professor of Chemical and Biomolecular Engineering, Professor of Medicine, and the Director of the Center for Bone Biology at Vanderbilt University in Nashville, TN.  Prior to his appointment at Vanderbilt, he was a Senior Associate Scientist at Bayer Corporation and an NIH/NRSA Fellow in the Department of Biomedical Engineering at Carnegie Mellon University. Professor Guelcher’s research focuses on the design and development of biomaterials and delivery systems that enhance healing of tissue damaged by trauma or disease. He collaborates with biomedical scientists and clinicians to design, develop, and scale-up new materials for bone and soft tissue regeneration from the bench to the bedside.   He also studies how the bone/tumor microenvironment regulates the progression of tumor-induced bone disease and designs new tumor-targeted therapies to block establishment of tumors in bone. Dr. Guelcher is an author on over ninety publications and an inventor on twelve patents. Learn more about Dr. Guelcher [here](https://www.linkedin.com/in/guelcher-scott-778a8a1b/).
 

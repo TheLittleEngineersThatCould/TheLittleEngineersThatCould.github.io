@@ -60,7 +60,7 @@ Melanie is a chemical engineer from Ohio with minors in computer science and ast
 
 #### Scott Guelcher
 
-![Scott Guelcher Headshot](/assets/img/Guelcher_Headshot-Clear.png){: style="float: left" width="250" height="250"}
+![Scott Guelcher Headshot](/assets/img/Guelcher_Headshot-Clear.png){: style="float: left" width="150" height="150"}
 
 Scott Guelcher is a Professor of Chemical and Biomolecular Engineering, Professor of Medicine, and the Director of the Center for Bone Biology at Vanderbilt University in Nashville, TN.  Prior to his appointment at Vanderbilt, he was a Senior Associate Scientist at Bayer Corporation and an NIH/NRSA Fellow in the Department of Biomedical Engineering at Carnegie Mellon University. Professor Guelcher’s research focuses on the design and development of biomaterials and delivery systems that enhance healing of tissue damaged by trauma or disease. He collaborates with biomedical scientists and clinicians to design, develop, and scale-up new materials for bone and soft tissue regeneration from the bench to the bedside.   He also studies how the bone/tumor microenvironment regulates the progression of tumor-induced bone disease and designs new tumor-targeted therapies to block establishment of tumors in bone. Dr. Guelcher is an author on over ninety publications and an inventor on twelve patents. Learn more about Dr. Guelcher [here](https://www.linkedin.com/in/guelcher-scott-778a8a1b/).
 

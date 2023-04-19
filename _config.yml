@@ -110,7 +110,6 @@ author:
 
 # Site Footer
 footer:
-  location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -118,6 +117,8 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@TheLittleEngineersthatCould"
+    - label: "Thank you for visiting!"
+      icon: "fab fa-fw fa-heart"
 
 
 # Reading Files

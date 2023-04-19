@@ -110,6 +110,7 @@ author:
 
 # Site Footer
 footer:
+  location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

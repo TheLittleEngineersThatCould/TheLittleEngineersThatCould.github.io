@@ -1,6 +1,6 @@
 ---
-title: "Process Economics"
-excerpt: "Assessment of the TCI and payback period of our extruder"
+title: "Acknowledgements"
+excerpt: "A special thank you to everyone who made this project possible"
 classes: wide
 
 ---

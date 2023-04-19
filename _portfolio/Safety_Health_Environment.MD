@@ -26,6 +26,9 @@ Unlike the environmental and health risks, safety concerns are more flagrant in 
 
 ## Lock Out Tag Out Instructions
 
+The Lock Out Tag Out form can be downloaded [here][1]. The procedures should be reviewed annually by the EHS manager. 
+
+[1]: Extruder_LOTO.docx
 
 [^1]: Mikula, K., Skrzypczak, D., Izydorczyk, G. et al. 3D printing filament as a second life of waste plastics—a review. Environ Sci Pollut Res 28, 12321–12333 (2021). https://doi.org/10.1007/s11356-020-10657-8
 

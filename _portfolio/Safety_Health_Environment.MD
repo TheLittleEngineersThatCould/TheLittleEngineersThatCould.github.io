@@ -18,11 +18,11 @@ Unlike the environmental and health risks, safety concerns are more flagrant in 
 
 ## HAZOP
 
-<iframe width="100%" height="1324" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJaogoAmtnWb0WK2GNmKcRgHxqkhYSXXVIP5gpT0dOP-80XspBVlETEfMoz_Dwgm07rdWo5rUj_CVN/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="1374" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJaogoAmtnWb0WK2GNmKcRgHxqkhYSXXVIP5gpT0dOP-80XspBVlETEfMoz_Dwgm07rdWo5rUj_CVN/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## FMEA
 
-<iframe width="100%" height="1300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYP9uVihe8FQUZ9sfZukBOjD19bdEGUUnp_G4aY2md8NmTbs6al3tD-NRtmII8iw/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="1250" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYP9uVihe8FQUZ9sfZukBOjD19bdEGUUnp_G4aY2md8NmTbs6al3tD-NRtmII8iw/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Lock Out Tag Out Instructions
 

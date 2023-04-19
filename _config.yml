@@ -117,7 +117,7 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@TheLittleEngineersthatCould"
-
+site.atom_feed.hide
 
 # Reading Files
 include:

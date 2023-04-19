@@ -104,9 +104,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/melmarszal/PET-extruder"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@TheLittleEngineersthatCould"
 
 # Site Footer
 footer:
@@ -114,6 +114,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/melmarszal/PET-extruder"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@TheLittleEngineersthatCould"
 
 
 # Reading Files

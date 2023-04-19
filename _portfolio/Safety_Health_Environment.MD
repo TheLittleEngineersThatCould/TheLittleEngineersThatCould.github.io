@@ -7,9 +7,9 @@ classes: wide
 
 ## Safety, Health, and Environment Concerns
 
-Both the process of producing regrind flake and operating the filament extruder present environment, health, and safety concerns (EHS). From an environmental perspective, concern may arise around the general nature of filament 3D printing, in that the process generates quite a bit of waste[^1]. The waste produced from filament 3D printing is largely attributed to failed prints or design iterations. This environmental concern could hopefully be mitigated due to the nature of our design. Any failed prints could be processed in the same manner as the recycled plastic bottles: ground up in the granulator into regrind flake, extruded into filament, and pelletized. From here, the failed prints are now considered rPET pellets. However there are limitations to this solution because each time prints are used as a regrind source, they experience mechanical stress from the reclaimer and additional thermal degradation from the extruder. Essentially, the reuse of rPET parts as regrind should not be a regular process, and we aim to rework 10% or less of failed prints back into the regrind stream.
+Both the process of producing regrind flake and operating the filament extruder present environment, health, and safety concerns (EHS). From an environmental perspective, concern may arise around the general nature of filament 3D printing, in that the process generates quite a bit of waste.[^1] The waste produced from filament 3D printing is largely attributed to failed prints or design iterations. This environmental concern could hopefully be mitigated due to the nature of our design. Any failed prints could be processed in the same manner as the recycled plastic bottles: ground up in the granulator into regrind flake, extruded into filament, and pelletized. From here, the failed prints are now considered rPET pellets. However there are limitations to this solution because each time prints are used as a regrind source, they experience mechanical stress from the reclaimer and additional thermal degradation from the extruder. Essentially, the reuse of rPET parts as regrind should not be a regular process, and we aim to rework 10% or less of failed prints back into the regrind stream.
 
-As for health and safety risks, these can be mitigated with the adherence to OSHA regulations set for the plastics industry[^2]. The main health concern arises from the regrind making process. The input to the reclaimer is plastic shreds, while the output is varying sized regrind flake. A substantial portion of the regrind flake is the size of flecks (slightly larger than particles). The flake size can be seen in Figure X below. The flecks also tend to either stick to the internal wall of the regrind due to static attraction or float around in the air. Hazards regarding the regrind and the reclaimer are eye hazards and inhalation hazards.  These hazards can be mitigated by wearing relevant personal protective equipment (PPE) like dust masks and safety glasses. The process of granulating plastics like PLA and ABS have also have hazards with regards to the release of toxins during this process. However, PET is inert so toxin release is not a concern[^3].
+As for health and safety risks, these can be mitigated with the adherence to OSHA regulations set for the plastics industry.[^2] The main health concern arises from the regrind making process. The input to the reclaimer is plastic shreds, while the output is varying sized regrind flake. A substantial portion of the regrind flake is the size of flecks (slightly larger than particles). The flake size can be seen in Figure X below. The flecks also tend to either stick to the internal wall of the regrind due to static attraction or float around in the air. Hazards regarding the regrind and the reclaimer are eye hazards and inhalation hazards.  These hazards can be mitigated by wearing relevant personal protective equipment (PPE) like dust masks and safety glasses. The process of granulating plastics like PLA and ABS have also have hazards with regards to the release of toxins during this process. However, PET is inert so toxin release is not a concern.[^3]
 
 ![Reclaimer](/assets/img/Reclaimer.png)
 **Figure 1.** Close up view of concerning regrind flake size on reclaimer wall.
@@ -18,17 +18,17 @@ Unlike the environmental and health risks, safety concerns are more flagrant in 
 
 ## HAZOP
 
-<iframe width="1110" height="1324" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJaogoAmtnWb0WK2GNmKcRgHxqkhYSXXVIP5gpT0dOP-80XspBVlETEfMoz_Dwgm07rdWo5rUj_CVN/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="1324" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJaogoAmtnWb0WK2GNmKcRgHxqkhYSXXVIP5gpT0dOP-80XspBVlETEfMoz_Dwgm07rdWo5rUj_CVN/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## FMEA
 
-<iframe width="2000" height="1000" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYP9uVihe8FQUZ9sfZukBOjD19bdEGUUnp_G4aY2md8NmTbs6al3tD-NRtmII8iw/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="1300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYP9uVihe8FQUZ9sfZukBOjD19bdEGUUnp_G4aY2md8NmTbs6al3tD-NRtmII8iw/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Lock Out Tag Out Instructions
 
 The Lock Out Tag Out form can be downloaded [here][1]. The procedures should be reviewed annually by the EHS manager. 
 
-[1]: Extruder_LOTO.docx
+[1]:{{ site.url }}/Extruder_LOTO.docx
 
 [^1]: Mikula, K., Skrzypczak, D., Izydorczyk, G. et al. 3D printing filament as a second life of waste plastics—a review. Environ Sci Pollut Res 28, 12321–12333 (2021). https://doi.org/10.1007/s11356-020-10657-8
 

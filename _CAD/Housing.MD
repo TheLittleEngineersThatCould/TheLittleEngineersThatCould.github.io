@@ -2,7 +2,7 @@
 title: "Housing"
 excerpt: "Housing for clean appearance and to protect users from the inner mechanisms of the extruder"
 header:
-  teaser: /assets/img/Housing.png
+  teaser: /assets/img/Extruder_CAD.png
   
 ---
 

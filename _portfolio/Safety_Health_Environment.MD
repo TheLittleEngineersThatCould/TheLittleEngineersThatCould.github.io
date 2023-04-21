@@ -26,7 +26,7 @@ Unlike the environmental and health risks, safety concerns are more flagrant in 
 
 ## Lock Out Tag Out Instructions
 
-The Lock Out Tag Out form can be downloaded [here][1]. The procedures should be reviewed annually by the EHS manager. 
+The Lock Out Tag Out form can be downloaded [here][1]. The procedures should be reviewed annually by the EHS manager.  
 
 [1]:{{ site.url }}/Extruder_LOTO.docx
 

@@ -22,31 +22,31 @@ As noted by other groups, PET extrusion generally works best with high compressi
 All of the NEXTRUCAD inputs are summarized in Tables 2 - 7. The key results from the simulation can be found in Table 8. The outputs in Table 8 inform everything from our [economic analysis](https://thelittleengineersthatcould.github.io/portfolio/Process_Economics/) to our equipment sizing (LINK HERE).
 
 **Table 2.** NEXTRUCAD Screw (i) Inputs
-<iframe width="224" height="259" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=547125923&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="214" height="209" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=547125923&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 3.** NEXTRUCAD Screw (ii) Section 1 Inputs
-<iframe width="254" height="322" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=231049382&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="244" height="272" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=231049382&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 4.** NEXTRUCAD Screw (ii) Section 2 Inputs
-<iframe width="254" height="322" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1163815703&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="244" height="272" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1163815703&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 5.** NEXTRUCAD Screw (ii) Section 3 Inputs
-<iframe width="254" height="322" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1052581461&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="244" height="272" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1052581461&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 6.** NEXTRUCAD Barrel + Die Inputs
-<iframe width="255" height="343" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=695171395&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="245" height="293" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=695171395&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 7.** NEXTRUCAD Process Conditions Inputs
-<iframe width="287" height="343" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=69842378&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="247" height="293" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=69842378&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 8.** NEXTRUCAD Key Results
-<iframe width="255" height="364" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1483443242&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="245" height="314" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1483443242&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 

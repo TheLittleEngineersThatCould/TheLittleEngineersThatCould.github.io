@@ -12,9 +12,9 @@ feature_row:
     title: "Digital Fabrication Lab"
     excerpt: "We used equipment from the [Digital Fabrication Lab](https://www.digitalfabricationlab.com/) to create regrind, 3D printed parts, and machined parts."
   - image_path: assets/img/SustainVU_Logo.png
-    alt: "SustainVU Logo"
-    title: "SustainVU Recycling"
-    excerpt: "[SustainVU](https://www.vanderbilt.edu/sustainability/) Recycling has provided us with recycled plastic bottles from Vanderbilt students."
+    alt: "FutureVU Sustainability Logo"
+    title: "FutureVU Sustainability Office"
+    excerpt: "The [FutureVU Sustainability Office](https://www.vanderbilt.edu/sustainability/) has provided us with recycled plastic bottles from Vanderbilt's recycling line."
 ---
 
 

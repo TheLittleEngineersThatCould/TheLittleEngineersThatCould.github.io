@@ -2,8 +2,8 @@
 title: "Gallery"
 classes: wide
 gallery:
-  - url: /assets/img/Heaters_Tape.jpeg
-    image_path: assets/img/Heaters_Tape.jpeg
+  - url: /assets/img/Heaters_Tape.JPEG
+    image_path: assets/img/Heaters_Tape.JPEG
     alt: "Extruder with heaters showing"
   - url: /assets/img/Insulation_Die.jpg
     image_path: assets/img/Insulation_Die.jpg

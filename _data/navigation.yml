@@ -5,7 +5,7 @@ main:
   - title: "CAD"
     url: /CAD/
   - title: "Gallery"
-    url: /_pages/Gallery
+    url: /_pages/gallery
   - title: "User Manual"
     url: /_pages/manual
   - title: "About"

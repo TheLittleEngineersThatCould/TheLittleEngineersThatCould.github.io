@@ -33,6 +33,7 @@ NOTE: Before you energize this system, know that the heating sections will immed
 *  **Unattach the external power cord from wall power.**
 
 NOTE: The barrel will NOT cool immediately. The extruder will remain hot even after turning off. Allow the extruder time to cool. If the extruder needs to be cooled quickly, keep the extruder attached to wall power, adjust the PID controllers to 0 ℃, and run each of the fans at full power until the desired barrel temperature is reached.
+
 NOTE: VFDs function with very large capacitors that will continue to hold charge even after being disconnected from power. **Treat the VFD as if it is always powered.** 
 
 

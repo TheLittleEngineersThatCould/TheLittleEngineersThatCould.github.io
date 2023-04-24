@@ -26,15 +26,15 @@ All of the NEXTRUCAD inputs are summarized in Tables 2 - 7. The key results from
 
 
 **Table 3.** NEXTRUCAD Screw (ii) Section 1 Inputs
-<iframe width="239" height="242" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=231049382&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="240" height="242" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=231049382&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 4.** NEXTRUCAD Screw (ii) Section 2 Inputs
-<iframe width="239" height="252" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1163815703&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="240" height="252" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1163815703&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 5.** NEXTRUCAD Screw (ii) Section 3 Inputs
-<iframe width="239" height="252" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1052581461&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="240" height="252" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIrFBwUo9KrBYuPAFEcMKQ6K_i5Ti_DNRUJXg2XSECzRbRiSPQHBDpLJvwbxe09tSX9isg1rvm6y7C/pubhtml?gid=1052581461&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 **Table 6.** NEXTRUCAD Barrel + Die Inputs

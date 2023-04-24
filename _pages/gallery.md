@@ -6,7 +6,7 @@ gallery:
     image_path: assets/img/Extruder_Heaters.png
     alt: "Extruder with heaters showing"
   - url: /assets/img/VFD_Wires.jpeg
-    image_path: assets/img/VFD_Wires.jpegg
+    image_path: assets/img/VFD_Wires.jpeg
     alt: "VFD wiring"
   - url: /assets/img/Motor_Gearbox.jpg
     image_path: assets/img/Motor_Gearbox.jpg

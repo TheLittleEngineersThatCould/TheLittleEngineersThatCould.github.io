@@ -4,6 +4,10 @@ main:
     url: /portfolio/
   - title: "CAD"
     url: /CAD/
+  - title: "Gallery"
+    url: /_pages/Gallery
+  - title: "User Manual"
+    url: /_pages/manual
   - title: "About"
     url: /_pages/about
   # - title: "Sample Collections"

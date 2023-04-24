@@ -9,8 +9,8 @@ Click [here][1] to download a pdf of the user manual.
 #### Turning the Extruder On
 1. Precheck the Machine
 *  Referencing the wiring logic diagram, **check that all the wires are appropriately attached.** Ensure that the grounding wires from the bus bars to the aluminum frame and housing are attached and secure.
-    b. Examine the motor train (motor, gear box, output shaft, coupler, flange, barrel) and **ensure that no wires or debris will impede rotation.**
-    c. Before continuing on to “Turning On Power”, **fasten all panels of the housing to the frame.**
+*  Examine the motor train (motor, gear box, output shaft, coupler, flange, barrel) and **ensure that no wires or debris will impede rotation.**
+    a.  Before continuing on to “Turning On Power”, **fasten all panels of the housing to the frame.**
 
 2. **Turning On Power**
 NOTE: Before you energize this system, know that the heating sections will immediately start to approach their setpoint. If you do not want the barrel to heat, your first step after attaching to wall power should be to adjust the set points of each PID down to 0 ℃. The PIDs only affect the control variable (temperature of the barrel) by manipulating the power to the heaters. If the set point is below ambient temperature, the heaters will not energize.

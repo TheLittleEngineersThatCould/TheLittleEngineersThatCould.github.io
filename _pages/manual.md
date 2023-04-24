@@ -8,7 +8,7 @@ Click [here][1] to download a pdf of the user manual.
 
 #### Turning the Extruder On
 1. Precheck the Machine
-    a. Referencing the wiring logic diagram, **check that all the wires are appropriately attached.** Ensure that the grounding wires from the bus bars to the aluminum frame and housing are attached and secure.
+*  Referencing the wiring logic diagram, **check that all the wires are appropriately attached.** Ensure that the grounding wires from the bus bars to the aluminum frame and housing are attached and secure.
     b. Examine the motor train (motor, gear box, output shaft, coupler, flange, barrel) and **ensure that no wires or debris will impede rotation.**
     c. Before continuing on to “Turning On Power”, **fasten all panels of the housing to the frame.**
 

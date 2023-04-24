@@ -8,6 +8,9 @@ gallery:
   - url: /assets/img/Insulation_Die.jpg
     image_path: assets/img/Insulation_Die.jpg
     alt: "Die with insulation wrapped around the barrel"
+  - url: /assets/img/Logo_Plate_Blake.JPEG
+    image_path: assets/img/Logo_Plate_Blake.JPEG
+    alt: "Housing panel with decorative laser cutouts for ventillation"
   - url: /assets/img/VFD_Wires.jpeg
     image_path: assets/img/VFD_Wires.jpeg
     alt: "VFD wiring"
@@ -20,9 +23,6 @@ gallery:
   - url: /assets/img/Estop_Blake.jpg
     image_path: assets/img/Estop_Blake.jpg
     alt: "Blake with the emergency stop button"
-  - url: /assets/img/Logo_Plate_Blake.JPEG
-    image_path: assets/img/Logo_Plate_Blake.JPEG
-    alt: "Housing panel with decorative laser cutouts for ventillation"
   - url: /assets/img/Home_Depot.JPEG
     image_path: assets/img/Home_Depot.JPEG
     alt: "Amy, Melanie, and Blake at Home Depot"

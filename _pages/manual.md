@@ -13,6 +13,7 @@ Click [here][1] to download a pdf of the user manual.
 *  Before continuing on to “Turning On Power”, **fasten all panels of the housing to the frame.**
 
 2. **Turning On Power**
+
 NOTE: Before you energize this system, know that the heating sections will immediately start to approach their setpoint. If you do not want the barrel to heat, your first step after attaching to wall power should be to adjust the set points of each PID down to 0 ℃. The PIDs only affect the control variable (temperature of the barrel) by manipulating the power to the heaters. If the set point is below ambient temperature, the heaters will not energize.
 *  **Attach the external power cord to 110 VAC outlet.** 
 *  Upon attachment, the three PIDs’ screens should illuminate along with the VFD screen. The cooling fans may or may not turn on depending on the position of the potentiostat for each fan. In order to test if the fans are energized, adjust the knobs of each fan until the fan begins to turn.
@@ -30,6 +31,7 @@ NOTE: Before you energize this system, know that the heating sections will immed
 *  **Adjust the setpoints of the PID controllers down to 0 ℃.**
 *  **Adjust each of the fans down to no power.**
 *  **Unattach the external power cord from wall power.**
+
 NOTE: The barrel will NOT cool immediately. The extruder will remain hot even after turning off. Allow the extruder time to cool. If the extruder needs to be cooled quickly, keep the extruder attached to wall power, adjust the PID controllers to 0 ℃, and run each of the fans at full power until the desired barrel temperature is reached.
 NOTE: VFDs function with very large capacitors that will continue to hold charge even after being disconnected from power. **Treat the VFD as if it is always powered.** 
 

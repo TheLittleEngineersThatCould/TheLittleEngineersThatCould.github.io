@@ -2,9 +2,12 @@
 title: "Gallery"
 classes: wide
 gallery:
-  - url: /assets/img/Extruder_Heaters.png
-    image_path: assets/img/Extruder_Heaters.png
+  - url: /assets/img/Heaters_Tape.jpeg
+    image_path: assets/img/Heaters_Tape.jpeg
     alt: "Extruder with heaters showing"
+  - url: /assets/img/Insulation_Die.jpg
+    image_path: assets/img/Insulation_Die.jpg
+    alt: "Die with insulation wrapped around the barrel"
   - url: /assets/img/VFD_Wires.jpeg
     image_path: assets/img/VFD_Wires.jpeg
     alt: "VFD wiring"

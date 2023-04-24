@@ -54,7 +54,7 @@ The max pressure value was used to determine the required thickness, using Barlo
 Table 2 below shows a bill of materials for all mechanical parts that we ordered from commercial vendors. The overall cost was $3,075.92.
 
 **Table 2.** Bill of Mechanical Materials.
-<iframe width="670" height="850" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=1951519260&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="674" height="850" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=1951519260&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 We used Fusion 360 to create a 3D rendering of our extruder before starting with physical assembly. Please see our [CAD page] for an interactive model of our full extruder assembly and links to pictures and individual CAD models of each mechanical and electrical part we used in assembly. 
 

@@ -28,7 +28,7 @@ Mechanical properties of a polymer can be critical to the results of 3D printing
 Our team took the thermal degradation of recycled PET into account in our NEXTRUCAD simulations. Instead of using widely available viscosity data for virgin PET, we searched literature to find viscosity data for recycled PET. Table 1 below shows the viscosity data used in our NEXTRUCAD simulations.
 
 **Table 1.** Viscosity data for recycled PET from literature.[^4] 
-<iframe width="550" height="302" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYcTZd9KjOMpW4srbrbgWDCMKQVAenGTj7RHRnccXgXv6quyG1Edwb0_3H2teKCVe-glmulCIeioD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="590" height="301" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYcTZd9KjOMpW4srbrbgWDCMKQVAenGTj7RHRnccXgXv6quyG1Edwb0_3H2teKCVe-glmulCIeioD/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Another way we investigated the material properties of our recycled PET was by creating a DSC curve. A DSC curve can be used to determine melting point, crystallization temperature, and glass transition temperature. For our purposes, we were only concerned with finding the melting point, since we need all of the PET in our extruder to be melted to avoid clogging the barrel. Figure 1 below shows the DSC curve we obtained from a sample of one of the plastic bottles we used to make regrind. The dip at 250 °C signifies the melting point of the sample which matches the melting point found in literature.[^5]
 
@@ -54,7 +54,7 @@ The max pressure value was used to determine the required thickness, using Barlo
 Table 2 below shows a bill of materials for all mechanical parts that we ordered from commercial vendors. The overall cost was $3,075.92.
 
 **Table 2.** Bill of Mechanical Materials.
-<iframe width="600" height="850" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=1951519260&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="630" height="850" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=1951519260&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 We used Fusion 360 to create a 3D rendering of our extruder before starting with physical assembly. Please see our [CAD page] for an interactive model of our full extruder assembly and links to pictures and individual CAD models of each mechanical and electrical part we used in assembly. 
 
@@ -63,7 +63,7 @@ We used Fusion 360 to create a 3D rendering of our extruder before starting with
 Table 3 below shows a bill of materials for all electrical components of our extruder. The overall cost was $861.22.
 
 **Table 3.** Bill of Electrical Materials.
-<iframe width="550" height= "402" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=71501716&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="580" height= "402" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrHN7wJ3KYsXJAE4LROnckK29-K7e8XuwEgclLIfXCx6t6EhtOrRsNxZjna8shbD6ND8GjQGMRxEdV/pubhtml?gid=71501716&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 

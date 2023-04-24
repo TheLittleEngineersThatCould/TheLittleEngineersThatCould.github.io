@@ -32,7 +32,7 @@ Our team took the thermal degradation of recycled PET into account in our NEXTRU
 
 Another way we investigated the material properties of our recycled PET was by creating a DSC curve. A DSC curve can be used to determine melting point, crystallization temperature, and glass transition temperature. For our purposes, we were only concerned with finding the melting point, since we need all of the PET in our extruder to be melted to avoid clogging the barrel. Figure 1 below shows the DSC curve we obtained from a sample of one of the plastic bottles we used to make regrind. The dip at 250 °C signifies the melting point of the sample which matches the melting point found in literature.[^5]
 
-![DSC curve](/assets/img/DSC.png)
+![DSC curve](/assets/img/DSC.PNG)
 **Figure 1.** DSC Curve from PET regrind
 
 ## Equipment Sizing

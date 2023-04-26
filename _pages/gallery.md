@@ -32,7 +32,33 @@ gallery:
   - url: /assets/img/Amy_Blake_Fans.jpg
     image_path: assets/img/Amy_Blake_Fans.jpg
     alt: "Amy and Blake attaching the fan housing panel to the frame"
-    
+  - url: /assets/img/Screw_Hole.png
+    image_path: assets/img/Screw_Hole.png
+    alt: "Feed section entrance"
+  - url: /assets/img/Wired_Fan.png
+    image_path: assets/img/Wired_Fan.png
+    alt: "Wired fan with PWM and 12V power converter"
+  - url: /assets/img/Blake_Mel_Manuals.png
+    image_path: assets/img/Blake_Mel_Manuals.png
+    alt: "Blake and Melanie reading user manuals"
+  - url: /assets/img/Partial_Panel.png
+    image_path: assets/img/Partial_Panel.png
+    alt: "Top panel with some controllers installed"
+  - url: /assets/img/Tons_Of_Bottles.png
+    image_path: assets/img/Tons_Of_Bottles.png
+    alt: "Some plastic bottles"
+  - url: /assets/img/Shroud_Printing.png
+    image_path: assets/img/Shroud_Printing.png
+    alt: "Fan shroud on the printer"    
+  - url: /assets/img/Hopper_Inside.png
+    image_path: assets/img/Hopper_Inside.png
+    alt: "Hopper set inside the housing"  
+  - url: /assets/img/Programming_PID.png
+    image_path: assets/img/Programming_PID.png
+    alt: "Melanie programming the PID controller"
+  - url: /assets/img/Motor_Attached.png
+    image_path: assets/img/Motor_Attached.png
+    alt: "Motor attached to the base plate"
     
 ---
 

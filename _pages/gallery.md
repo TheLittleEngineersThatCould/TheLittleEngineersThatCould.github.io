@@ -59,6 +59,9 @@ gallery:
   - url: /assets/img/Motor_Attached.png
     image_path: assets/img/Motor_Attached.png
     alt: "Motor attached to the base plate"
+  - url: /assets/img/Mel_Amy_Extruder.jpg
+    image_path: assets/img/Mel_Amy_Extruder.jpg
+    alt: "Melanie and Amy with the finished extruder"
     
 ---
 
